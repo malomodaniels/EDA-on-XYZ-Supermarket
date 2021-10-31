@@ -2,4 +2,4 @@
 Final Data Analysis Capstone project on Ustacky Data Science
 Microdegree.
 
-Project taking shape and awaiting final visualisation
+Project on hold till further notice.
